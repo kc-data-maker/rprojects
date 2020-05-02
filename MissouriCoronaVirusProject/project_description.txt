@@ -1,0 +1,7 @@
+#### Scope 
+This document looks at causes of death in Missouri and their corresponding counts from 2013 to 2018. 
+
+#### Source 
+All data used comes from two places:  
+1. https://cran.r-project.org/web/packages/maps/maps.pdf
+2. https://healthapps.dhss.mo.gov/MoPhims/MOPHIMSHome
